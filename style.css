@@ -1,0 +1,65 @@
+@font-face {
+    font-family: "openserif";
+    src: url("assets/OpenSerif-Book.ttf");
+}
+
+body {
+    font-family: "openserif";
+    background-color: #f9fafc;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;   
+}
+
+li a {
+    text-decoration: none;
+    color: #000;    
+}
+
+button {
+    color: white;
+    background-color: #000;
+    border: 0px solid #000;
+    font-size: large;
+    font-weight: bold;
+    border-radius: 40px;
+    width: 100%;
+    padding: 0px;
+    margin-top: 20px;
+}
+
+div.a {
+    padding: 15px;
+    font-size: xx-large;
+    font-weight: bold;
+}
+
+div.b {
+    border: 2px solid #69696a;
+    border-right-width: 0px;
+    border-bottom-width: 0px;
+    border-top-width: 0px;
+    border-left-width: 10px;
+    padding-left: 10px;
+}
+
+div.c {
+    background-color: rgba(247, 193, 162, 0.7);
+    position: fixed;
+    float: left;
+    bottom: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    width: 100%;
+    
+}
+
+li b {
+   float: right;
+   
+  
+  }
+
